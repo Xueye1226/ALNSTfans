@@ -51,8 +51,8 @@ body {
     width: 50%;
     max-width: 500px;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
-    border-radius: 10px; /* 圓角效果 */
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px
 }
 
 .home-content h1 {
@@ -223,15 +223,15 @@ h1 {
 }
 
 #characters {
-    background-image: url('../IMAGE/星空黑白.png');
+    background-image: url('../IMAGE/星空黑白.jpg');
 }
 
 #music {
-    background-image: url('../IMAGE/星空黑白.png');
+    background-image: url('../IMAGE/星空黑白.jpg');
 }
 
 #news {
-    background-image: url('../IMAGE/星空黑白.png');
+    background-image: url('../IMAGE/星空黑白.jpg');
 }
 
 h2 {
